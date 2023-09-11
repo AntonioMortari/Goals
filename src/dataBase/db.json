@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "firstName": "Antonio Mortari",
+      "email": "antoniomortari09@gmail.com",
+      "password": "30030522",
+      "password2": "30030522",
+      "tasks": [],
+      "id": "pArNBHuam"
+    },
+    {
+      "firstName": "Teste",
+      "email": "teste123@gmail.com",
+      "password": "teste123",
+      "password2": "teste123",
+      "tasks": [
+        {
+          "nameTask": "Ler",
+          "description": "Ler por 30 minutos de manhã",
+          "id": "YzgPqGQ-X",
+          "isCompleted": false,
+          "date": "11/09/2023 - 07:13"
+        }
+      ],
+      "id": "lS6jHhqk6"
+    }
+  ]
+}
