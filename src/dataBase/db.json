@@ -5,7 +5,36 @@
       "email": "antoniomortari09@gmail.com",
       "password": "30030522",
       "password2": "30030522",
-      "tasks": [],
+      "tasks": [
+        {
+          "nameTask": "Estudar inglês",
+          "description": "Aprender 5 palavras e fazer 10 atividades",
+          "id": "A1OGOQtPr",
+          "isCompleted": false,
+          "date": "11/09/2023 - 07:58"
+        },
+        {
+          "nameTask": "Ir ao mercado",
+          "description": "Ir ao mercado comprar frutas e verduras",
+          "id": "iKUaBxzaA",
+          "isCompleted": false,
+          "date": "11/09/2023 - 07:58"
+        },
+        {
+          "nameTask": "Limpar o quarto",
+          "description": "Limpar o quarto",
+          "id": "5Drqkm-4E",
+          "isCompleted": true,
+          "date": "11/09/2023 - 07:58"
+        },
+        {
+          "nameTask": "Ir para reunião",
+          "description": "Ir para a reunião de trabalho",
+          "id": "Hyr0KFb0Y",
+          "isCompleted": false,
+          "date": "11/09/2023 - 07:59"
+        }
+      ],
       "id": "pArNBHuam"
     },
     {
